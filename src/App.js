@@ -97,7 +97,7 @@ const App=()=> {
 <Button
 color='success'
 block
-onClick={reloadGame}>Reload</Button>
+onClick={reloadGame}>ReStart</Button>
 
         </div>
         
